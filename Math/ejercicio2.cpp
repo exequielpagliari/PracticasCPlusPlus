@@ -1,3 +1,10 @@
+//2. Greatest common divisor
+//Write a program that, given two positive integers, will calculate and print the greatest
+//common divisor of the two.
+
+
+
+
 #include <iostream>
 #include <string>
 #include <numeric>
