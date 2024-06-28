@@ -15,7 +15,7 @@ int main()
  std::cin >> valor;
 
  
- for (unsigned int i = 2; i < valor; i++)
+ for (unsigned int i = 2; i -1 < valor; i++)
  {
  
  if(i % 3 == 0 || i % 5 == 0)
